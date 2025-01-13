@@ -542,7 +542,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "token",
-                "value": "AstraCS:EjmKoYWzTltKTSwScmkRieAN:c053eaffb186730cc1b1abb7f53e41c72e1cb048153fac86018fc7277d49d740",
+                "value": "<your-astra-token>",
                 "display_name": "Astra DB Application Token",
                 "advanced": false,
                 "input_types": [
